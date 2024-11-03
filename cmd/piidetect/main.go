@@ -61,7 +61,7 @@ func main() {
 	}
 
 	if len(issues) == 0 {
-		fmt.Println("No PII issues found.")
+		fmt.Println("no Potential PII issues found.")
 		return
 	}
 

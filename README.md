@@ -1,6 +1,6 @@
 # PII Detect
 
-`piidetect` is a Go-based static analysis tool designed to identify instances of Personally Identifiable Information (PII) within source code files. It leverages either Abstract Syntax Tree (AST) or regular expression (regex) methods to detect sensitive data patterns. This tool supports custom patterns, configurable worker concurrency, and includes options for reporting detected issues.
+`piidetect` is a Go-based static analysis tool designed to identify potential instances of Personally Identifiable Information (PII) within source code files. It leverages either Abstract Syntax Tree (AST) or regular expression (regex) methods to detect sensitive data patterns. This tool supports custom patterns, configurable worker concurrency, and includes options for reporting detected issues.
 
 ## Features
 
